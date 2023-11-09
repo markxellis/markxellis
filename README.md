@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a population geographer at the University of Washington working on migration and neighborhood change.
+
+I'm a population geographer at the University of Washington working on migration and neighborhood change.
